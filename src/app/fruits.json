@@ -1,0 +1,85 @@
+{
+    "fruits": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "botanical_name": "Malus domestica",
+        "description": "Apple is a popular fruit known for its sweet taste and crisp texture. It is usually round or slightly oval in shape, with a thin skin that can be green, yellow, or red. Apples come in various varieties and are widely cultivated in temperate regions around the world. They are often consumed fresh, used in cooking, or processed into juice, cider, or applesauce.",
+        "classification": "Rosaceae",
+        "image": "https://example.com/apple.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "botanical_name": "Musa paradisiaca",
+        "description": "Banana is a tropical fruit characterized by its elongated shape and yellow peel. It has a creamy, sweet flesh and is rich in potassium, vitamin C, and dietary fiber. Bananas are one of the most widely consumed fruits globally and can be eaten raw, added to smoothies, or used in various culinary preparations.",
+        "classification": "Musaceae",
+        "image": "https://example.com/banana.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Orange",
+        "botanical_name": "Citrus sinensis",
+        "description": "Orange is a citrus fruit known for its vibrant orange color, round shape, and refreshing flavor. It is rich in vitamin C and is widely enjoyed for its sweet-tart taste. Oranges can be consumed fresh, juiced, or used in a variety of dishes, desserts, and beverages.",
+        "classification": "Rutaceae",
+        "image": "https://example.com/orange.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Grapes",
+        "botanical_name": "Vitis vinifera",
+        "description": "Grapes are small, juicy fruits that grow in clusters on vines. They come in various colors, including green, red, and purple. Grapes are often enjoyed as a snack or used for making wine, juice, jellies, and raisins. They are known for their antioxidant properties and are a rich source of vitamins and minerals.",
+        "classification": "Vitaceae",
+        "image": "https://example.com/grapes.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Strawberry",
+        "botanical_name": "Fragaria × ananassa",
+        "description": "Strawberry is a heart-shaped fruit that is bright red in color and has a sweet and slightly tangy taste. It is widely appreciated for its aroma and is commonly used in desserts, jams, and beverages. Strawberries are rich in antioxidants and vitamin C, making them a nutritious addition to a balanced diet.",
+        "classification": "Rosaceae",
+        "image": "https://example.com/strawberry.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Pineapple",
+        "botanical_name": "Ananas comosus",
+        "description": "Pineapple is a tropical fruit with a unique appearance and a sweet, tangy flavor. It has a tough, spiky outer skin and a juicy, yellow flesh with a core in the center. Pineapples are packed with vitamin C, manganese, and bromelain, an enzyme that aids digestion. They are commonly eaten fresh, used in fruit salads, or incorporated into various dishes.",
+        "classification": "Bromeliaceae",
+        "image": "https://example.com/pineapple.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Mango",
+        "botanical_name": "Mangifera indica",
+        "description": "Mango is a tropical fruit known for its juicy, golden flesh and sweet flavor. It is often called the 'king of fruits' and is highly regarded for its rich taste and nutritional value. Mangoes are enjoyed fresh, used in smoothies, desserts, and savory dishes, and are a popular ingredient in many cuisines worldwide.",
+        "classification": "Anacardiaceae",
+        "image": "https://example.com/mango.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Watermelon",
+        "botanical_name": "Citrullus lanatus",
+        "description": "Watermelon is a large, juicy fruit with a thick green rind and a sweet, watery red or pink flesh. It is a refreshing summer fruit and is often eaten chilled or used in salads and beverages. Watermelon is low in calories and hydrating, thanks to its high water content.",
+        "classification": "Cucurbitaceae",
+        "image": "https://example.com/watermelon.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Peach",
+        "botanical_name": "Prunus persica",
+        "description": "Peach is a soft, fuzzy fruit with a delicate aroma and a sweet, juicy flesh. It has a velvety skin that can be yellow, orange, or pink. Peaches are enjoyed fresh, canned, or used in a variety of dishes, including pies, cobblers, and preserves. They are a good source of vitamins A and C and provide dietary fiber.",
+        "classification": "Rosaceae",
+        "image": "https://example.com/peach.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Kiwi",
+        "botanical_name": "Actinidia deliciosa",
+        "description": "Kiwi, also known as Chinese gooseberry, is a small fruit with a fuzzy brown exterior and bright green flesh containing edible black seeds. It has a unique, tangy flavor that is often described as a blend of strawberry, banana, and pineapple. Kiwis are rich in vitamin C, vitamin K, and dietary fiber. They can be eaten raw, added to fruit salads, or used in desserts.",
+        "classification": "Actinidiaceae",
+        "image": "https://example.com/kiwi.jpg"
+      }
+    ]
+  }
+  
