@@ -3,7 +3,6 @@ import frtData from '../../fruits.json'
 
 export default function FrtPage({params}) {
 
-
   // Find the fruit with the matching id
   const fruit = frtData.fruits.filter((fruit) => fruit.id === params.id);
   // if (!fruit) {
